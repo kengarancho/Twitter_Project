@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.26;
 
+// This is a testing project
+
 // 1️⃣ Create a Twitter Contract 
 // 2️⃣ Create a mapping between user and tweet 
 // 3️⃣ Add function to create a tweet and save it in mapping
